@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
-<h3 align="center">A passionate frontend developer from Toronto,Canada</h3>
+<h3 align="center">A passionate Full-Stack Developer from Toronto,Canada</h3>
 
 - 🔭 I’m currently working on [social media microservice](https://github.com/TrevorPhippard/social_media_microservice)
 
