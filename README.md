@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">A passionate Full-Stack Developer from Toronto,Canada</h3>
 
-- 🔭 I’m currently working on [[carpenter kitty microservice](https://github.com/TrevorPhippard/Carpenter-Kitty-Microservice)
-](https://github.com/TrevorPhippard/carpenter-kitty-2)
+- 🔭 I’m currently working on [[carpenter kitty microservice](https://github.com/TrevorPhippard/carpenter-kitty-2)
 - 🌱 I’m currently learning **kafka**
 
 - 💬 Ask me about **system design, best practice**
