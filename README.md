@@ -4,7 +4,8 @@
 - 🔭 I’m currently working on [carpenter kitty microservice](https://github.com/TrevorPhippard/carpenter-kitty-2)
 - 🌱 I’m currently learning **kafka**
 
-- 💬 Ask me about **system design, best practice**
+- 👤 personal site [Trevor Phippard](https://trevorphippard.github.io/personal_site/)
+
 
 - 📫 How to reach me **trevorphippard@gmail.com**
 
