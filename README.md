@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Toronto,Canada</h3>
 
 - 🔭 I’m currently working on [carpenter kitty microservice](https://github.com/TrevorPhippard/carpenter-kitty-2)
-- 🌱 I’m currently learning **kafka**
+- 🌱 I’m currently learning **Envoy**
 
 - 👤 personal site [Trevor Phippard](https://trevorphippard.github.io/personal_site/)
 
