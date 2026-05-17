@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Toronto,Canada</h3>
 
 - 🔭 I’m currently working on [social network microservice](https://github.com/TrevorPhippard/ouroboros)
-- 🌱 I’m currently learning ** Mechanical sympathy **
+- 🌱 I’m currently learning **Mechanical sympathy**
 
 - 👤 personal site [Trevor Phippard](https://trevorphippard.github.io/personal_site/)
 
